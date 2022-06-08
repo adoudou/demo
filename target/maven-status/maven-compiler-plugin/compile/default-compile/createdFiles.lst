@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\SpringContextUtil.class
+com\example\demo\config\ApplicationConfig.class
+com\example\demo\controller\ConfigController.class
+com\example\demo\config\StaticConifg.class

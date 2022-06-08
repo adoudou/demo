@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+
+age: 11
+name: kk
