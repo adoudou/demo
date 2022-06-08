@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da7ea38c-7066-4c36-885e-d9d5d40837f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo" beforeDir="false" afterPath="$PROJECT_DIR$/demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/demo/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,6 +30,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo" />
   </component>
   <component name="IdeDocumentHistory">
@@ -36,6 +38,13 @@
       <list>
         <option value="$PROJECT_DIR$/demo/README.md" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -107,12 +116,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654671441620</updated>
-      <workItem from="1654671446144" duration="609000" />
+      <workItem from="1654671446144" duration="1238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="609000" />
+    <option name="totallyTimeSpent" value="1238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
@@ -155,11 +164,18 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
